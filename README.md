@@ -1,2 +1,2 @@
 # CADDE
-Computer Aided Drug Discovery Engine
+Computer Aided Drug Discovery Experiments
